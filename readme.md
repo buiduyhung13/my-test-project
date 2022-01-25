@@ -7,3 +7,4 @@ Git basic commands:
 - git push: đẩy commit lên trên repository
 
 Làm việc trên branch mới
+- Tạo branch mới làm việc để dễ keep track
